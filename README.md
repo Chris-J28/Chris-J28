@@ -2,8 +2,9 @@
 <h2> Computer engineering student 📚
 
 #### Fore for me
-- From Mexico.
+- From Mexico
 - In search of knowledge
+- That's all?
 
 #### Technologies I use
   ![C](https://img.shields.io/badge/-c-blue?style=flat&logo=c)
